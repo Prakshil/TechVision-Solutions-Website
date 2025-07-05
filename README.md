@@ -31,27 +31,6 @@ TechVision Solutions is a modern, responsive website for a technology consulting
 - **Services** - Four core service offerings with interactive cards
 - **Footer** - Contact information, links, and location map
 
-## 🏗️ Project Structure
-
-```
-practice/
-├── package.json                 # Node.js dependencies and build scripts
-├── tailwind.config.js          # Tailwind CSS configuration
-├── README.md                   # Project documentation
-├── CSS/
-│   ├── style.css              # Tailwind directives (input)
-│   └── main.css               # Compiled CSS (output)
-├── HTML/
-│   └── index.html             # Main HTML file
-└── assets/
-    ├── 14209120-uhd_3840_2160_30fps.mp4  # Hero video background
-    ├── icon.svg                           # Company logo
-    ├── about-us.jpg                       # About section image
-    ├── service-image1.svg                 # Cloud Migration icon
-    ├── service-image2.svg                 # Digital Transformation icon
-    ├── service-image3.svg                 # Cybersecurity icon
-    └── service-image4.svg                 # Data Analytics icon
-```
 
 ## 🚀 Getting Started
 
