@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" id="html" class="">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind</title>
+    <link rel="stylesheet" href="../CSS/main.css">
+    <script>
+      function toggleDarkMode() {
+        const el = document.getElementById('html');
+        if (el.className == "dark") {
+          document.getElementById('html').className = "light";
+          document.getElementById('select').innerText = "Apply dark mode";
+        } else {
+          document.getElementById('html').className = "dark";
+          document.getElementById('select').innerText = "Apply light mode";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="bg-white dark:bg-gray-800">
+      <h1 class="text-5xl font-bold text-gray-500">Hey, I'm Prakshil Patel</h1>
+    </div>
+    <button id="select" onclick="toggleDarkMode()" class="bg-gray-200 text-gray-800 m-10  p-4 border border-gray-300 rounded-lg dark:bg-gray-700 dark:text-gray-200"> Apply dark mode</button>
+  </body>
+
+</html>
