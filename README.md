@@ -204,14 +204,7 @@ This project is open source and available under the [MIT License](LICENSE).
 4. Test thoroughly
 5. Submit a pull request
 
-## 📞 Contact
 
-**TechVision Solutions**
-- Website: [Your Website URL]
-- Email: contact@techvisionsolutions.com
-- LinkedIn: [Your LinkedIn]
-
----
 
 ## 🛠️ Technical Notes
 
