@@ -141,13 +141,6 @@ Key responsive features:
 - **CSS Optimization** - Tailwind purges unused styles
 - **Lazy Loading** - Video and images load efficiently
 
-## 🌐 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
 ## 🔧 Customization
 
 ### Changing Colors
